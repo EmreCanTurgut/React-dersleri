@@ -27,7 +27,7 @@ export default function Results({ input }) {
                         <td>{yearData.year}</td>
                         <td>{yearData.valueEndOfYear}</td>
                         <td>{yearData.interest}</td>
-                       
+                    
                     </tr>
                 })}
             </tbody>
